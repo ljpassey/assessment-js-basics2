@@ -1,0 +1,48 @@
+Apple's Tech Stack:
+For application and Data they use -> Swift, Objective C, Cocoa Touch, Cocoa
+For utilities -> Framer and open Street Map
+For DevOps -> Xcode, Pingdom, and TeamCity
+
+Google Tech Stack:
+For Application and Data -> Python, Java, AngularJS, AndroidSDK,Golang, C++, Dart, Guava, Material Design, Preact
+For Utilities -> Google Analytics, Google Maps, App annie
+For DevOps -> Kubernetes, Android Studio, Bazel
+
+Adobe Tech Stack:
+Application and Data -> JavaScript, Apache Cordova
+DevOps -> Git
+
+Microsoft:
+NGINX
+C#
+Redis
+Ruby
+GraphQL
+React Native
+Microsoft Azure
+Rails
+Microsoft SQL Se ...
+Microsoft IIS
+.NET
+gRPC
+Protobuf
+Azure Storage
+Puma
+Visual Basic
+Azure Cosmos DB
+Azure Websites
+GraphiQL
+GraphQL Ruby
+winjs
+React Native
+
+DevOps:
+GitHub
+Docker
+Visual Studio Co ...
+Visual Studio
+HAProxy
+Azure DevOps
+RubyMine
+Wavefront
+
